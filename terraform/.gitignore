@@ -2,6 +2,7 @@
 *.tfstate
 *.backup
 *.hcl
+*.terraform.*
 locals.tf
 terraform.tfvars
 .terraform/*
